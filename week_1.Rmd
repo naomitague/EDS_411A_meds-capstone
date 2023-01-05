@@ -13,29 +13,26 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Week 1 Goals:
 
 - EDS 411A course and capstone introduction
-  - What are we doing here?
-  - What is the time expectation? 
-  - How will I be evaluated?
-  - How do we get help?
 - Practice and dialogue about holding effective meetings in different contexts
-    - Agenda for first client meeting
-    - Write a short paragraph on your project for the Bren website
-- Elevator Speech - what am I doing in 2-minutes! 
+- Work on paragraph for Bren Website
 - Decide on a project alias
 - Define team roles
 
-### 1:00pm - 1:30pm: EDS 411AB Course Intro
+# Schedule
 
-- [EDS 411A Course Intro Slides](https://docs.google.com/presentation/d/e/2PACX-1vR2FTOKqfY9MLh40qLPA77ZCQ6Yx_Xxm_DPZSpfYaixwA0CRq_bmvy3qZtz3AQMoa6WA88StOE8trb6/pub?start=false&loop=false&delayms=3000)
+- 1:00 - 1:30 EDS 411AB Course Intro
+- 1:30 - 2:30 Effective Meetings
+- 2:30 - 2:45 BREAK
+- 2:45 - 4:00 Project pieces: alias, paragraph for website, roles
 
-### 1:30pm - 2:30 pm: Effective Meetings
 
-# Meetings for Problem Solving and Project Management
+## Meetings for Problem Solving and Project Management
 
+# Meeting 1
 In upcoming Environmental Modeling course, MEDS students will be joined by MESMs, this is a technical course with substantial data science work, mostly in R. MEDs students are generally better prepared for data science work. How should I as an instructor accommodate this?  You have 10 minutes
 
 Quick Anonymous Poll
-Did you feel that your ideas were adequately  heard?
+Did you feel that your ideas were adequately heard?
 Were you happy with the end result?
 If not?  Why?
 
@@ -47,13 +44,13 @@ If not?  Why?
 
 # Holding Meetings with your group
 * Have a meeting chair who manages the agenda and discussion
-* Agenda 
+* The agenda
   * include times and who is responsible
   * collect agenda items before hand
 * For each agenda item, chair should summarize (concisely) one of the following
   * information only- thanks!
   * decision reached in the discussion
-  * decison not reached, 
+  * decision not reached, 
       * what is the next step 
       * who leads
       * when due
@@ -62,13 +59,14 @@ If not?  Why?
       * who leads
       * when due
   * more information needed
-    * who
-    * when
+    * who is responsible
+    * when due
   * Useful to always have time for non-agenda, last minute items but have this at the end
  
 # Meeting 2 (15 mintues)
-Each MEDS Capstone project will be featured on the Bren website. By next week, your group will need to submit 1 paragraph describing your project.  You have 15 minutes to meet about this and decide how it will get done.
-Previous summarizes are here [MEDS project summaries](https://bren.ucsb.edu/projects) to get an idea of what is expected.  
+Each MEDS Capstone project will be featured on the Bren website. By next Monday at 5pm, your group will need to submit 1 paragraph describing your project.  You have 15 minutes to meet about this and decide how it will get done.
+Previous summarizes are here [MEDS project summaries](https://bren.ucsb.edu/projects) to get an idea of what is expected.  (See Description section)
+
 Then, start drafting your paragraph for the website in the shared document.
 
 # BREAK
@@ -79,20 +77,32 @@ Then, start drafting your paragraph for the website in the shared document.
 ## Client Meeting (15 minutes)
 
 BEFORE next Wednesday class, have a meeting with your client 
-You goal in this meeting is to clarify what the objectives are (if you have any questions)
-and to address any issue with accessing data. Use this time to develop an agenda for the client meeting
 
-For next class, you will need to bring a dataset to class to work on
+You have 3 goals in this meeting
+
+*  clarify what the objectives are (if you have any questions - know what they are before the meeting)
+*  address any issue with accessing data (determine beforehand what these might be)
+*  find out who the audience for your product will be and if there will be people who can test it
+
+
+Use this time to develop an agenda for the client meeting
 
 * agenda (with times)
 * list of clarifying questions you want to ask the client
 * any issues with data - make sure
 
+
+# Meetings with clients
+
+* have an agenda, know what you want to get from the meeting be as specific as you can
+* send any materials that you would like reviewed beforehand (ideally at least 1-week)
+* make sure you have a leader for the meeting
+* assign someone to take notes 
+
 ## Team alias (20 minutes)
 
 Your team alias - a short, memorable abbreviated name for your project - serves multiple professional purposes, including: 
 
-- The directory name on Taylor
 - Your group's email prefix 
 - Use in MEDS Capstone communication with faculty and staff
 
@@ -103,7 +113,11 @@ Spend 15 minutes brainstorming group aliases. Keep in mind that this will likely
 - **maricultura** (assessed Brazil's aquaculture potential)
 - **justhealth** (investigated relationships between air quality and diabetes risk in California)
 
-Once you have decided on your team alias, send it to Brad & Kat so they can set up your Taylor directory and group email address. 
+Keep it short - 20 characters max
+Keep it professional, obvious, memorable, coder-friendly (no spaces, dashes)
+
+Once you have decided on your team alias, add to [MEDS 2023 Capstone Assignment](https://docs.google.com/spreadsheets/d/1m1GsGIY63mWfOJphfLjuGAlZq0_Ubhe6kW1vrmYz9dE/edit?usp=sharing)
+google doc
 
 ###  Define team roles and report back
 
@@ -116,10 +130,12 @@ Add your proposed roles to [this shared doc](https://docs.google.com/spreadsheet
 ## What you should do before next week: 
 
 - All members should read through the [MEDS Capstone Guidelines](https://bren.ucsb.edu/media/3557/download)
-- Hold your first client meeting and self reflect on how it went
-- Bring a dataset to class in a software of your choice
-- Let Brad & Kat know your team alias ASAP (so they can create your Taylor directory & email)
-- Finalize your summary paragraph for the Bren website, add to [this shared doc](https://docs.google.com/document/d/1th6oXjO1G7FcjorPQmEAPL4ESOvQ-uqmULfzSLGJDig/edit?usp=sharing) by 5pm on Monday 1/11
-- Make sure your project roles are updated on the [shared Googlesheet](https://docs.google.com/spreadsheets/d/19iI1BGMthN6ccFWxkMGPeT8aWXAsnonYmXkO6K9CfMM/edit#gid=0)
+- Hold your first client meeting (by Monday) and self reflect on how it went
+- Bring a dataset to next Wednesday class in a software of your choice
+- Create your group alias, add to add to [this shared doc](https://docs.google.com/document/d/1th6oXjO1G7FcjorPQmEAPL4ESOvQ-uqmULfzSLGJDig/edit?usp=sharing) by 5pm on Monday 1/11 and let Emily know by Monday 5pm
+- Finalize your summary paragraph for the Bren website, add to [this shared doc](https://docs.google.com/document/d/1th6oXjO1G7FcjorPQmEAPL4ESOvQ-uqmULfzSLGJDig/edit?usp=sharing) by 5pm on Monday 1/11 and send to  Emily know by Monday 5pm 
+- Make sure your project roles are updated on the [shared Googlesheet](https://docs.google.com/spreadsheets/d/19iI1BGMthN6ccFWxkMGPeT8aWXAsnonYmXkO6K9CfMM/edit#gid=0) and let Emily know by Monday 5pm
+
+Emily is case@bren.ucsb.edu
 
 
