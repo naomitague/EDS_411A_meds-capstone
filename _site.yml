@@ -1,5 +1,5 @@
 name: "meds-distill-template"
-title: "EDS 411AB"
+title: "EDS 411A"
 description: |
   MEDS Courses distill template
 output_dir: "docs"
@@ -13,11 +13,11 @@ navbar:
           href: week_1.html
         - text: "Week 2: Solution design skeletons"
           href: week_2.html
-        - text: "Week 3: Problems and objectives"
+        - text: "Week 3: Data Management Planning"
           href: week_3.html
-        - text: "Week 4: Faculty reviews and Q&A"
+        - text: "Week 4: Testing"
           href: week_4.html
-        - text: "Week 5: Testing"
+        - text: "Week 5: Presentations"
           href: week_5.html
         - text: "Week 6: DIP & faculty review work"
           href: week_6.html
@@ -25,32 +25,11 @@ navbar:
           href: week_7.html
         - text: "Week 10: Looking back & forward"
           href: week_10.html
-    - text: "EDS 411B Weekly Materials"
-      menu:
-        - text: "Week 1: Welcome to Spring Quarter"
-          href: week_1_411b.html
-        - text: "Week 2: Getting what you need from clients"
-          href: week_2_411b.html
-        - text: "Week 3: Public presentations"
-          href: week_3_411b.html
-        - text: "Week 4: Work week"
-          href: week_4_411b.html
-        - text: "Week 5: Work week"
-          href: week_5_411b.html
-        - text: "Week 6: Prep for publics"
-          href: week_6_411b.html
-        - text: "Week 7: Practice presentations"
-          href: week_7_411b.html
-        - text: "Week 8: Work week"
-          href: week_8_411b.html
-        - text: "Week 9: Whatever you need"
-          href: week_9_411b.html
-        - text: "Week 10: Wrap-up"
-          href: week_10_411b.html
+
     - text: "Resources"
       href: resources.html
     - icon: fab fa-github
-      href: https://github.com/allisonhorst/EDS_411AB_meds-capstone/
+      href: https://github.com/naomitague/EDS_411A_meds-capstone/
 output: distill::distill_article
 theme: theme.css
 

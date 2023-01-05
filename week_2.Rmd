@@ -38,3 +38,14 @@ knitr::opts_chunk$set(echo = TRUE)
 - Drafted timeline for your work (unrelated to Bren deliverables - this should be specifically for your data science product work). Review timeline with advisor / client this week or next. 
 - Skeleton draft of Solution Design, with a schematic to share in 411A next week. The point is to clarify what you don’t know and still need. Schematics are encouraged in your D&I plan, so this could / should end up being a final figure in your submitted document. 
 - Based on your Team Management Plan, create your repo (most likely) or whatever tool you’re using for project accountability & progress tracking. Add action items for each person, each week (i.e. each person should have a “to-do” list). Share with both faculty advisors. 
+
+## Elevator Speech
+
+Spend 10 minutes - yuo 2 minute elevator speech when someone asks you what you are doing
+
+* background/context
+* problem/knowledge gap
+* objectives
+
+# Pair and share - not in your group (15 min)
+# Within Group Sharing (15 min)

@@ -8,18 +8,19 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Week 1 Materials
 
-- Week 1 [Slides](https://docs.google.com/presentation/d/e/2PACX-1vR2FTOKqfY9MLh40qLPA77ZCQ6Yx_Xxm_DPZSpfYaixwA0CRq_bmvy3qZtz3AQMoa6WA88StOE8trb6/pub?start=false&loop=false&delayms=3000)
+- Week 1 [Slides](https://docs.google.com/presentation/d/1cUJR8MnTe7l7HHjxCGUjAomhCdQyi8hIz5XW0Gb0bP4/edit?usp=sharing)
 
 ## Week 1 Goals:
 
-- EDS 411AB course introduction
+- EDS 411A course and capstone introduction
   - What are we doing here?
   - What is the time expectation? 
   - How will I be evaluated?
   - How do we get help?
-- Tell us about your project! 2-minute flash talks 
-- Write a short paragraph on your project for the Bren website
-- Finance team visit - how to use your Capstone funds
+- Practice and dialogue about holding effective meetings in different contexts
+    - Agenda for first client meeting
+    - Write a short paragraph on your project for the Bren website
+- Elevator Speech - what am I doing in 2-minutes! 
 - Decide on a project alias
 - Define team roles
 
@@ -27,25 +28,67 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - [EDS 411A Course Intro Slides](https://docs.google.com/presentation/d/e/2PACX-1vR2FTOKqfY9MLh40qLPA77ZCQ6Yx_Xxm_DPZSpfYaixwA0CRq_bmvy3qZtz3AQMoa6WA88StOE8trb6/pub?start=false&loop=false&delayms=3000)
 
-### 1:30pm - 2:15pm: Project Flash Talks
+### 1:30pm - 2:30 pm: Effective Meetings
 
-Spend 15 minutes creating then practicing a 2 to 3 minute, 4 slide presentation on your project. The 4 slides should be (1) Cover slide, (2) Background, (3) Project motivation (or problem / knowledge gap), (4) Project objective(s). Your group can decide how you break up the presentation - 2 presenters minimum. 
+# Meetings for Problem Solving and Project Management
 
-**Break: 2:15pm - 2:30pm PST**
+In upcoming Environmental Modeling course, MEDS students will be joined by MESMs, this is a technical course with substantial data science work, mostly in R. MEDs students are generally better prepared for data science work. How should I as an instructor accommodate this?  You have 10 minutes
 
-### 2:30pm - 3:00pm: Write a summary for the Bren website
+Quick Anonymous Poll
+Did you feel that your ideas were adequately  heard?
+Were you happy with the end result?
+If not?  Why?
 
-Each MEDS Capstone project will be featured on the Bren website. Spend ~10 minutes browsing some [MESM project summaries](https://bren.ucsb.edu/projects) to get an idea of what is expected. Then, start drafting your paragraph for the website in the shared document.
+# Discuss (15 miinutes)
 
-Continue to work on your summary after 411A this week. Add a finalized version of your summary to [this shared google doc](https://docs.google.com/document/d/1th6oXjO1G7FcjorPQmEAPL4ESOvQ-uqmULfzSLGJDig/edit?usp=sharing) by Monday 1/11 at 5pm. We will then share that document with Melissa Van De Werfhorst (Bren Communications Director) to post your summaries to the Bren website. 
+* Leader/facilitator as a service role
+* Managing multiple voice in a short time; making sure everyone is heard
+* Facilitating agreement or next steps
 
-### Finance - using your group money (3:00pm - 3:30pm)
+# Holding Meetings with your group
+* Have a meeting chair who manages the agenda and discussion
+* Agenda 
+  * include times and who is responsible
+  * collect agenda items before hand
+* For each agenda item, chair should summarize (concisely) one of the following
+  * information only- thanks!
+  * decision reached in the discussion
+  * decison not reached, 
+      * what is the next step 
+      * who leads
+      * when due
+  * progress reporting
+      * next step
+      * who leads
+      * when due
+  * more information needed
+    * who
+    * when
+  * Useful to always have time for non-agenda, last minute items but have this at the end
+ 
+# Meeting 2 (15 mintues)
+Each MEDS Capstone project will be featured on the Bren website. By next week, your group will need to submit 1 paragraph describing your project.  You have 15 minutes to meet about this and decide how it will get done.
+Previous summarizes are here [MEDS project summaries](https://bren.ucsb.edu/projects) to get an idea of what is expected.  
+Then, start drafting your paragraph for the website in the shared document.
 
-Members of the Bren finance team will join via Zoom to go over important information about using your Capstone budget & how to use it. 
+# BREAK
 
-**Break: 3:30pm - 3:45pm**
+### More on meetings, alias, team management 2:45-4:00
 
-### 3:45pm - 4:00pm: Team alias! 
+
+## Client Meeting (15 minutes)
+
+BEFORE next Wednesday class, have a meeting with your client 
+You goal in this meeting is to clarify what the objectives are (if you have any questions)
+and to address any issue with accessing data. Use this time to develop an agenda for the client meeting
+
+For next class, you will need to bring a dataset to class to work on
+
+* agenda (with times)
+* list of clarifying questions you want to ask the client
+* any issues with data - make sure
+
+## Team alias (20 minutes)
 
 Your team alias - a short, memorable abbreviated name for your project - serves multiple professional purposes, including: 
 
@@ -62,16 +105,19 @@ Spend 15 minutes brainstorming group aliases. Keep in mind that this will likely
 
 Once you have decided on your team alias, send it to Brad & Kat so they can set up your Taylor directory and group email address. 
 
-### 4:00 - 5:00pm - Define team roles and report back
+###  Define team roles and report back
 
 All teams are required to have a project manager (PM) and communication manager (CM). Other roles should be decided based on project-specific needs and expectations. Discuss with your team - in addition to the PM and CM, what do you think are the most important roles for the success of the project? 
 
 Add your proposed roles to [this shared doc](https://docs.google.com/spreadsheets/d/19iI1BGMthN6ccFWxkMGPeT8aWXAsnonYmXkO6K9CfMM/edit#gid=0) by the end of the day. You should discuss the proposed roles with your faculty advisor, and make updates to the Googlesheet to finalize your project roles by Friday, January 11th.  
 
+# Anonymous - quick survey of comments on how group meetings went
+
 ## What you should do before next week: 
 
 - All members should read through the [MEDS Capstone Guidelines](https://bren.ucsb.edu/media/3557/download)
-- Prepare a first draft of the Team Management Plan section of your Design & Implementation Plan (and feel free to work on other sections!)
+- Hold your first client meeting and self reflect on how it went
+- Bring a dataset to class in a software of your choice
 - Let Brad & Kat know your team alias ASAP (so they can create your Taylor directory & email)
 - Finalize your summary paragraph for the Bren website, add to [this shared doc](https://docs.google.com/document/d/1th6oXjO1G7FcjorPQmEAPL4ESOvQ-uqmULfzSLGJDig/edit?usp=sharing) by 5pm on Monday 1/11
 - Make sure your project roles are updated on the [shared Googlesheet](https://docs.google.com/spreadsheets/d/19iI1BGMthN6ccFWxkMGPeT8aWXAsnonYmXkO6K9CfMM/edit#gid=0)
