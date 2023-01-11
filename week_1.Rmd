@@ -31,9 +31,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 All members should read through the MEDS Capstone Project Guidelines
 
-By 5pm on Monday 1/11 
+By 5pm on Tuesday 17th
 
-* Hold your first client meeting (by Monday) and self reflect on how it went
+* Hold your first client meeting and self reflect on how it went
 * Create your group alias, add to [EDS 2023 Capstone Assignments](https://docs.google.com/spreadsheets/d/1m1GsGIY63mWfOJphfLjuGAlZq0_Ubhe6kW1vrmYz9dE/edit?usp=sharing)
 * Finalize your summary paragraph for the Bren website, add to [Capstone Summaries for MEDS Website](https://docs.google.com/document/d/16VuuVEzvqF1jad0jxSKIJiSl-bc5jvU-ouW86p7l5eE/edit?usp=sharing)
 * Make sure your project roles are updated i [EDS 2023 Capstone Assignments](https://docs.google.com/spreadsheets/d/1m1GsGIY63mWfOJphfLjuGAlZq0_Ubhe6kW1vrmYz9dE/edit?usp=sharing)
