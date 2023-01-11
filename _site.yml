@@ -11,20 +11,20 @@ navbar:
       menu:
         - text: "Week 1: Hello, (Capstone) world!"
           href: week_1.html
-        - text: "Week 2: Solution design skeletons"
-          href: week_2.html
-        - text: "Week 3: Data Management Planning"
-          href: week_3.html
-        - text: "Week 4: Testing"
-          href: week_4.html
-        - text: "Week 5: Presentations"
-          href: week_5.html
-        - text: "Week 6: DIP & faculty review work"
-          href: week_6.html
-        - text: "Week 7: Q&A, practice presentations"
-          href: week_7.html
-        - text: "Week 10: Looking back & forward"
-          href: week_10.html
+    #    - text: "Week 2: Solution design skeletons"
+    #      href: week_2.html
+    #    - text: "Week 3: Data Management Planning"
+    #      href: week_3.html
+    #    - text: "Week 4: Testing"
+    #      href: week_4.html
+    #    - text: "Week 5: Presentations"
+     #     href: week_5.html
+      #  - text: "Week 6: DIP & faculty review work"
+      #    href: week_6.html
+      #  - text: "Week 7: Q&A, practice presentations"
+      #    href: week_7.html
+      #  - text: "Week 10: Looking back & forward"
+       #   href: week_10.html
 
     - text: "Resources"
       href: resources.html
