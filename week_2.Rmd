@@ -19,14 +19,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Today's timeline: 
 
--1:00 - 1:15 - Questions & “What worked?”
--1:15 - 1:30 - Peer Review of Paragraph
--1:30 - 2:30 - Solution Design
--2:30-2:45  - Break
--2:45 - 3:15 - Data Exploration
--3:15 - 3:30 - Data Exploration Show and Tell (3 minutes)
--3:30 - 3:50 - Communicating with clients and beyond
--3:50 - 4:00 - For next week
+- 1:00 - 1:15 - Questions & “What worked?”
+- 1:15 - 1:30 - Peer Review of Paragraph
+- 1:30 - 2:30 - Solution Design
+- 2:30-2:45  - Break
+- 2:45 - 3:15 - Data Exploration
+- 3:15 - 3:30 - Data Exploration Show and Tell (3 minutes)
+- 3:30 - 3:50 - Communicating with clients and beyond
+- 3:50 - 4:00 - For next week
 
 ## What you should do before next week: 
 
