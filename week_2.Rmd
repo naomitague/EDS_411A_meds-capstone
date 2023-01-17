@@ -23,15 +23,19 @@ knitr::opts_chunk$set(echo = TRUE)
 - 1:15 - 1:30 - Peer Review of Paragraph
 - 1:30 - 2:30 - Solution Design
 - 2:30-2:45  - Break
-- 2:45 - 3:15 - Data Exploration
-- 3:15 - 3:30 - Data Exploration Show and Tell (3 minutes)
-- 3:30 - 3:50 - Communicating with clients and beyond
+- 2:45 - 3:20 - Data Exploration
+- 3:20 - 3:40 - Data Exploration Show and Tell (3 minutes)
+- 3:40 - 3:50 - Communicating with clients 
 - 3:50 - 4:00 - For next week
 
 ## What you should do before next week: 
 
 * Make your list of Products and Deliverables (section e of D&I Plan)
-* Skeleton draft of Solution Design, with an updated schematic to share in 411A next week. The point is to clarify what you don’t know and still need. Schematics are encouraged in your D&I plan, so this could / should end up being a final figure in your submitted document. 
+* Skeleton draft of Solution Design, with an updated schematic to share in 411A next week. 
+
+Upload [here](https://docs.google.com/document/d/1ucvdMCDO1KJKYhIBewZsTAp_ZJmOoPgymawQO31mCU4/edit?usp=sharing)
+The point is to clarify what you don’t know and still need. Schematics are encouraged in your D&I plan, so this could / should end up being a final figure in your submitted document. 
+
 * Prepare a Flash Talk on your project, be ready to present in next week’s class
 
 
