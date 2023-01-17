@@ -8,44 +8,30 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Week 2 Materials
 
-- Week 2 [Slides](https://docs.google.com/presentation/d/e/2PACX-1vThGEsQ71FAft_ciJ-lZZKPsWiGqYTm4aV07g_UJfMp9HZfnbfJlZ6u0sulOtRLCoyeg9LbFAvqWOWx/pub?start=false&loop=false&delayms=3000)
+- Week 2 [Slides](https://docs.google.com/presentation/d/1WUqK8HqHlHI_ugsCmdyP3lwkk51XfiJ3I5RJivKs7vY/edit?usp=sharing)
 
 ## Week 2 Goals:
 
-- Address questions on Team Management Plan
-- Group sharing: what worked & didn't from Week 1?
-- Peer review: Team Management Plan
-- Tips for working with clients on a data science project
-- Introducing the Solution Design
-- Sketching out & presenting a Solution Design schematic
+- Peer Review - 1 paragraph description - 
+- Solution Design - initial schematic
+- Data Exploration - a first attempt
+- Communicating with clients and beyond
 
 ## Today's timeline: 
 
-- 1:00 - 1:30 - Reminders, Meeting Tips, Questions & “What worked?”
-- 1:30 - 2:15 - Team management plan peer review
-- *2:15 - 2:30 - Break*
-- 2:30 - 3:00 - Working with a client - a few big tips
-- 3:00 - 3:15 - Introducing the Solution Design section
-- 3:15 - 3:45 - Sketchy Solution Design
-- *3:45 - 4:00 - Break*
-- 4:00 - 4:30 - Present your sketch (3 minutes each group)
-- 4:30 - 4:45 - Clarify questions you have for Solution Design
-- 4:50 - 5:00 - Designated team time
+-1:00 - 1:15 - Questions & “What worked?”
+-1:15 - 1:30 - Peer Review of Paragraph
+-1:30 - 2:30 - Solution Design
+-2:30-2:45  - Break
+-2:45 - 3:15 - Data Exploration
+-3:15 - 3:30 - Data Exploration Show and Tell (3 minutes)
+-3:30 - 3:50 - Communicating with clients and beyond
+-3:50 - 4:00 - For next week
 
 ## What you should do before next week: 
 
-- Make your list of Products and Deliverables (section e of D&I Plan)
-- Drafted timeline for your work (unrelated to Bren deliverables - this should be specifically for your data science product work). Review timeline with advisor / client this week or next. 
-- Skeleton draft of Solution Design, with a schematic to share in 411A next week. The point is to clarify what you don’t know and still need. Schematics are encouraged in your D&I plan, so this could / should end up being a final figure in your submitted document. 
-- Based on your Team Management Plan, create your repo (most likely) or whatever tool you’re using for project accountability & progress tracking. Add action items for each person, each week (i.e. each person should have a “to-do” list). Share with both faculty advisors. 
+* Make your list of Products and Deliverables (section e of D&I Plan)
+* Skeleton draft of Solution Design, with an updated schematic to share in 411A next week. The point is to clarify what you don’t know and still need. Schematics are encouraged in your D&I plan, so this could / should end up being a final figure in your submitted document. 
+* Prepare a Flash Talk on your project, be ready to present in next week’s class
 
-## Elevator Speech
 
-Spend 10 minutes - yuo 2 minute elevator speech when someone asks you what you are doing
-
-* background/context
-* problem/knowledge gap
-* objectives
-
-# Pair and share - not in your group (15 min)
-# Within Group Sharing (15 min)
