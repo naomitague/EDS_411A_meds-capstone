@@ -30,12 +30,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## What you should do before next week: 
 
-* Make your list of Products and Deliverables (section e of D&I Plan)
-* Skeleton draft of Solution Design, with an updated schematic to share in 411A next week. 
+* Add your skeleton draft sketch of your  Solution Design to [Class Working Drive Week 3 Sketches](https://drive.google.com/drive/folders/18sO6YkIUUI1IE5ysaP1xi2eXzYKAk9Y4?usp=share_link)  before next class (you can just add a screenshot if needed, )
+Note: Schematics are encouraged in your D&I plan, so this could / should end up being a final figure in your submitted document. 
 
-Upload [here](https://docs.google.com/document/d/1ucvdMCDO1KJKYhIBewZsTAp_ZJmOoPgymawQO31mCU4/edit?usp=sharing)
-The point is to clarify what you don’t know and still need. Schematics are encouraged in your D&I plan, so this could / should end up being a final figure in your submitted document. 
+* Turn your sketch into a Gantt chart (Casey’s class will provide some guidance here). Add a link to [Class Working Drive Week 3 Gantt Chart Link Doc](https://docs.google.com/document/d/10SOaFWKWnNtArkVzoo2QGhC2Iw6B18nND_9R_WyHV_0/edit?usp=sharing)
 
-* Prepare a Flash Talk on your project, be ready to present in next week’s class
-
-
+* Prepare a Flash Talk on your project, be ready to present in next week’s class. Add presentation to [Class Working Drive Week 3 Flash Talks](https://drive.google.com/drive/folders/1L8pUddcgw4t12cawPE4K2NZKtnulNZjL?usp=share_link)  

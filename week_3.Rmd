@@ -21,6 +21,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Today's timeline:
 
+- **1:00-3:00** - Renata Curty - Data Management Plans
+- **3:30-4:00**  Bridget Mastopietro - Finanace Team Presentation
+
 -   **1:00 - 1:30** - Reminders, questions & share some wins / ideas
 -   **1:30 - 2:00** - Solution design group sharing & questions / gaps clarified
 -   *2:00 - 2:10 - Break*
