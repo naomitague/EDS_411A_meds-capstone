@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # What you should do before next week: 
 
-All members should read through the MEDS Capstone Project Guidelines
+All members should read through the [MEDS Capstone Project Guidelines](file:///Users/naomitague/Downloads/MEDS%20Capstone%20Project%20Guidelines%20(1).pdf)
 
 By 5pm on Tuesday 17th
 

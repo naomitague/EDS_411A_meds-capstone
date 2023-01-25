@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Today's timeline:
 
 - **1:00-3:00**  Renata Curty - Data Management Plans
-- **3:00-3:30**. Pair and share solution design 
+- **3:00-3:30**. Flash Talks
 - **3:30-4:00**  Bridget Mastopietro - Finanace Team Presentation
 
 
@@ -29,12 +29,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 -   Continue to work on your solution design
 
--   Be prepared to present you flash talk and solution design in class (you can update materials that you submitted last week if you want to incorporate updates/changes)
-
-  -  [Class Working Drive Week 3 Gantt Chart Link Doc](https://docs.google.com/document/d/10SOaFWKWnNtArkVzoo2QGhC2Iw6B18nND_9R_WyHV_0/edit?usp=sharing)
-
-  -  [Class Working Drive Week 3 Flash Talks](https://drive.google.com/drive/folders/1L8pUddcgw4t12cawPE4K2NZKtnulNZjL?usp=share_link)  
-  
+  -   Be prepared to present solution design in class (you can update materials that you submitted last week if you want to incorporate updates/changes)
   - [Class Working Drive Week 3 Sketches](https://drive.google.com/drive/folders/18sO6YkIUUI1IE5ysaP1xi2eXzYKAk9Y4?usp=share_link) 
 
-  
+- Start your project repository -and add the link [here](https://docs.google.com/document/d/17VzX2f6onQtqWO063PbJNO_eXh_n-FV4uOVnp3y_xqg/edit?usp=sharing)
+
