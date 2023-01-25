@@ -1,5 +1,5 @@
 ---
-title: "Week 3: Problems, mishaps & blameless postmortems"
+title: "Week 3: Data Management"
 ---
 
 ```{r setup, include=FALSE}
@@ -8,50 +8,33 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Week 3 Materials
 
--   Week 3 [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQJ1lFyIwSjhAiWfog3Hsr_4BaIxZyz7ogl8oh2hKn_sohm_GlN1S49AynYJmjKIkiE4StFYQiA-DI5/pub?start=false&loop=false&delayms=3000)
 
 ## Week 3 Goals:
 
--   Address questions on Solution Design
--   Share a "Weekly Win"
--   Peer review & sharing: Solution Design
--   "State of your data" blitz
--   Introduction to the blameless postmortem
--   Clarifying the problem / gap that **your project** addresses
+-   Learn about strategies for data management
+-   Continue to work on solution design
+-   Answer any questions on funds for your project and how to use them
 
 ## Today's timeline:
 
-- **1:00-3:00** - Renata Curty - Data Management Plans
+- **1:00-3:00**  Renata Curty - Data Management Plans
+- **3:00-3:30**. Pair and share solution design 
 - **3:30-4:00**  Bridget Mastopietro - Finanace Team Presentation
 
--   **1:00 - 1:30** - Reminders, questions & share some wins / ideas
--   **1:30 - 2:00** - Solution design group sharing & questions / gaps clarified
--   *2:00 - 2:10 - Break*
--   **2:10 - 2:25** - Group time (flash talk prep)
--   **2:25 - 3:00** - Flash talks (solution design overview)
--   **3:00 - 3:20** - "State of your data" blitz
--   *3:20 - 3:30 - Break*
--   **3:30 - 4:00** - Mishaps & blameless postmortems (mini-lecture / discussion)
--   **4:00 - 4:15** - What's your problem? (research storytelling mini-lecture)
--   **4:15 - 4:45** - From background to specific problem / gap - directed work
--   *4:45 - 5:00 - Wrap up & group time*
+
 
 ## What you should do before next week: 
 
--   Draft **Problem Statement and Objectives** section of Design & Implementation Plan
+-   Prepara your data management plan and be ready share. Add it (as a Google doc) to this folder on our class drive [Week4/Data Management Plan](https://drive.google.com/drive/folders/1BNT8tE4Fjsc5cfodiGaKrL2Bap29n92p?usp=sharing)  
 
--   Continue work on Solution Design section (full draft expected, or placeholders where gaps exist)
+-   Continue to work on your solution design
 
--   Next week be prepared to present:
+-   Be prepared to present you flash talk and solution design in class (you can update materials that you submitted last week if you want to incorporate updates/changes)
 
-    -   A 3 minute flash talk on Timeline & Milestones (2 presenters minimum)
+  -  [Class Working Drive Week 3 Gantt Chart Link Doc](https://docs.google.com/document/d/10SOaFWKWnNtArkVzoo2QGhC2Iw6B18nND_9R_WyHV_0/edit?usp=sharing)
 
-    -   A 3 - 4 minute presentation (2 presenters minimum) with the following:
+  -  [Class Working Drive Week 3 Flash Talks](https://drive.google.com/drive/folders/1L8pUddcgw4t12cawPE4K2NZKtnulNZjL?usp=share_link)  
+  
+  - [Class Working Drive Week 3 Sketches](https://drive.google.com/drive/folders/18sO6YkIUUI1IE5ysaP1xi2eXzYKAk9Y4?usp=share_link) 
 
-        -   Cover slide (1 slide)
-
-        -   Background (1 - 2 slides)
-
-        -   Problem / gap (1 slide)
-
-        -   Objectives (1 slide)
+  
