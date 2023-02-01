@@ -14,14 +14,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - Check in on Capstone Design and Implementation plan 
 - Formalize Problem Statement
-- Making progress on Solution Design
-- Feedback on data management plan
+- Making Progress on Solution Design
+- Feedback on Data Management plan
 - Starting to think about testing
 
 ## Today's timeline:
 
 - 1:00 - 1:20 - Review of Capstone Design and Implementation Plan
-- 1:20 - 1:50. - Problem Statement (overview, work time)
+- 1:20 - 1:50 - Problem Statement (overview, work time)
 - 1:50 - 2:45 - Design Solution Presentations and Feedback
 - 2:45 - 3:00 - Break
 - 3:00 - 3:15 - Pair and Share on Data Management Plan
@@ -29,6 +29,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## What you should do before next week: 
 
-- Draft Documentation Plan 
+- Draft Design and Implementation Plan (send to your advisory AND put a copy in [Week 5 DIP](https://drive.google.com/drive/folders/1akYl-uaxOQmGE-DHWQB9ab8ciiapzNjy?usp=share_link) directory)
+
 - Read [this short post](https://www.applause.com/blog/functional-testing-types-examples) on different types of software testing, and [this one](https://www.usgs.gov/data-management/manage-quality) on data quality, to understand some different testing and data quality flavors (we’ll discuss more next week)
-- Brainstorm different ways you are concerned your product and/or data could break / fail. Prepare a 2-slide flash talk (3 minutes, 2 presenters) to share expected breaks. *This will motivate group discussions & feedback on product testing.*
+
+- Brainstorm different ways you are concerned your product and/or data could break / fail. Prepare a 2-slide flash talk (3 minutes, 1 presenters) to share expected breaks. *This will motivate group discussions & feedback on product testing.*. Put in [Week 5Break/Fail](https://drive.google.com/drive/folders/13iFF5b3uoHAf6IVKMFlM7FPG07Li9_py?usp=share_link) directory
