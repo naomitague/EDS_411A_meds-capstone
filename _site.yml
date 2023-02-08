@@ -17,8 +17,8 @@ navbar:
           href: week_3.html
         - text: "Week 4: Testing"
           href: week_4.html
-    #    - text: "Week 5: Presentations"
-     #     href: week_5.html
+        - text: "Week 5: Coding Perspectives"
+          href: week_5.html
       #  - text: "Week 6: DIP & faculty review work"
       #    href: week_6.html
       #  - text: "Week 7: Q&A, practice presentations"
@@ -30,6 +30,7 @@ navbar:
       href: resources.html
     - icon: fab fa-github
       href: https://github.com/naomitague/EDS_411A_meds-capstone/
+
 output: distill::distill_article
 theme: theme.css
 
