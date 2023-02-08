@@ -20,4 +20,5 @@ knitr::opts_chunk$set(echo = TRUE)
 - [DIP example directory](https://drive.google.com/drive/folders/1I8vTU_H-U73zLWqC5OtT6NMZ6uy6Pifw?usp=sharing)
 
 ### Testing Example
--
+-[Download here](https://drive.google.com/file/d/1puOeWKZCIFX4pVDipOu_W7xlATyEVHRw/view?usp=sharing)
+
