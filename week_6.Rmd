@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Week 6 Materials
 
--   Week 6 [Slides](https://docs.google.com/presentation/d/e/2PACX-1vT6zJr1coAf3HB4Im6Vua3jdt_RlcY_TQC2xQUrtQqOcTvhj3A2N45647ET_afyono6MZRWM9JWPhJN/pub?start=false&loop=false&delayms=3000)
+-   Week 6 [Slides](https://docs.google.com/presentation/d/18bzEAnu66gt6tx35SKBGhOTKMfbI-0ps4BaSJvxHv-s/edit?usp=sharing)
 
 ## Week 6 Goals:
 
