@@ -12,7 +12,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Week 6 Goals:
 
-- Quick tips: Slide design
-- Open work session: DIP & faculty review presentations
-- Allison rotating (25 min / group)
+- Thinking about what makes a good presentation
+- Incorpoating feedback and make progress on problem statement, objectives and solution design
 
+## For next week
+
+- next week we are going to focus on the 'storyline' of your project (and presentation)
+
+- we will also start brainstorming about mock-up prototypes (or other was to give audience a sense of where you are going)
+
+- put a draft presentation in [Week 7](https://drive.google.com/drive/folders/1-9Y9etfG7ET2GW90GYDK2-EM5_7XqlEc?usp=sharing)  
+  - our focus is on story (less on what the slide looks like)
+  - you can just put text to describe a figure if you haven't made it yet
