@@ -27,9 +27,9 @@ navbar:
           href: week_10.html
         - text: "Week 8: Practice presentations"
           href: week_8.html
-      #  - text: "Week 10: Looking back & forward"
-       #   href: week_10.html
->>>>>>> 88ae89b50c62e9a3ef53807cd9b99260445e985c
+        - text: "Week 10: Looking back & forward"
+          href: week_10.html
+
 
     - text: "Resources"
       href: resources.html
