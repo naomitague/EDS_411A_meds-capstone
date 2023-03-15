@@ -8,6 +8,13 @@
       "last_modified": "2023-03-15T12:39:16-07:00"
     },
     {
+      "path": "best_practices.html",
+      "title": "Programming Basics and Best Practices",
+      "author": [],
+      "contents": "\n\n\nEDS 411A\n\n\nHome\n\n\nEDS 411A Weekly materials\n \n▾\n\n\nWeek 1: Hello, (Capstone) world!\nWeek 2: Solution design skeletons\nWeek 3: Data Management Planning\nWeek 4: Testing\nWeek 5: Coding Perspectives\nWeek 6: DIP & faculty review work\nWeek 7: Pactice presentations\nWeek 10: Looking back & forward\n\n\nResources\n\n\n\n☰\n\n\n  Programming Basics and Best Practices\n  \n\n  \n\n\nSome thoughts\nLearning to program/data science is hard and we may not always\nexplain in a way that is accessible to you - So if you don’t understand\nsomething ASK ,\nProgramming gets better with practice and play - try the code,\ntry variations on the ideas presented, make up stuff to try,\nProgramming means making mistakes, expect it, stay calm and try\nagain - if you get frustrated step away and come back; be\ncreative\nSupport each other - assign tasks but check each others\nwork\n\n\nBest Practices for Software Development\nWilson G, Aruliah DA, Brown CT, Chue Hong NP, Davis M, et\nal. (2014) Best Practices for Scientific Computing. PLoS Biol 12(1):\ne1001745. doi:10.1371/journal.pbio.1001745\nBlanton, B and Lenhardt, C 2014. A Scientist’s Perspective on\nSustainable Scientific Software. Journal of Open Research Software\n2(1):e17, DOI: http://dx.doi.org/10.5334/jors.ba\nAlternative\nView\n\n\nSummary of Best Practices\nWilson\net al, Summary Box\n\n\nCommon Coding/Software Engineering Issues\nUnreadable code (hard to understand, easy to forget how it works,\nhard to find errors, hard to expand)\nOverly complex, disorganized code (hard to find errors; hard to\nmodify-expand)\nInsufficient testing (both during development and after)\nNot tracking code changes (multiple versions, which is\ncorrect?)\n\n\nAutomated Tools for Best Practices in Software Engineering\nAutomated tools (really useful for more complex code development (\nnote that capstones’s often create programs > 100 lines of code)\nAutomated documentation- a program that helps you to generate\ndocumentation\nhttps://en.wikipedia.org/wiki/Comparison_of_documentation_generators\nhttp://roxygen.org/roxygen2-manual.pdf\nAutomated test case development\nhttp://r-pkgs.had.co.nz/tests.html\nAutomated code evolution tracking (Version Control) This you already\nknow https://github.com/\n\n\n\n\n\n\n\n\n\n  This website was made with distill by RStudio.\n\n\n\n\n\n  \n  ",
+      "last_modified": "2023-03-15T12:41:52-07:00"
+    },
+    {
       "path": "index.html",
       "title": "EDS 411A: MEDS Capstone",
       "author": [],
