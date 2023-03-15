@@ -21,10 +21,15 @@ navbar:
           href: week_5.html
         - text: "Week 6: DIP & faculty review work"
           href: week_6.html
-        - text: "Week 7: Pactice presentations"
+        - text: "Week 7: Practice presentations"
           href: week_7.html
         - text: "Week 10: Looking back & forward"
           href: week_10.html
+        - text: "Week 8: Practice presentations"
+          href: week_8.html
+      #  - text: "Week 10: Looking back & forward"
+       #   href: week_10.html
+>>>>>>> 88ae89b50c62e9a3ef53807cd9b99260445e985c
 
     - text: "Resources"
       href: resources.html
