@@ -5,23 +5,17 @@ title: "Week 10: Course wrap-up & what to expect in Spring"
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+## Today's timeline:
+
+1:00 - 1:20: Faculty Review recap, questions, what to turn in this week
+1:20 - 2:00:  Best Practices for what’s coming…
+2:00 - 2:15:  Peer & Self Evaluations, EDS 411A Evaluation
+Work on DIP 
 
 ## Week 10 Materials
 
--   Week 10 [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQyFY3I5Kn5E1VsSoLqVV3JwikK9WR_8DBV8Sj7_i0lKMCkGHvOWlqsm29uUmpi_n8HUrlIJ7WFRRyu/pub?start=false&loop=false&delayms=3000)
+-   Week 10 [Slides](https://docs.google.com/presentation/d/1UDujty8oXFQZPn6eX35fHAYMjEY6Rxyg/edit?usp=sharing&ouid=109332249664255975278&rtpof=true&sd=true)
 
-## Week 10 Goals:
-
-- Recap Faculty Reviews
-- EDS 411A Course Recap
-- What to expect in EDS 411B
-- Self & peer evaluations, course evaluation
-
-## Today's timeline:
-
-- **1:00 - 1:20** - Faculty review recap & brainstorm
-- **1:20 - 3:30** - Work on your project
-- **3:30 - 4:00** - Looking forward to Spring
-- **4:00 - end** - Self & peer evaluations, EDS 411A evaluations
+- [Best Practices](best_practices.html)
 
 ## Have a great Spring Break!!!

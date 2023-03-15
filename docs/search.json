@@ -5,84 +5,84 @@
       "title": "Assignments",
       "author": [],
       "contents": "\n\nTO UPDATE THIS PAGE: Open and edit the assignments.Rmd file, in the project root, to delete this placeholder text and customize with your own!\n\nAssignment materials and dates\nAssignment materials\nAssigned\nDue date\nA link to the repo\n2021-01-01\n2021-01-08\nA link to the repo\n2021-01-15\n2021-01-23\nA link to the repo\n2021-02-01\n2021-02-09\nA link to the repo\n2021-02-14\n2021-02-23\nAssignment expectations and grading\nThis might also go on the home page & in syllabus\nOr could reinforce here\n\n\n\n\n",
-      "last_modified": "2023-02-22T11:49:50-08:00"
+      "last_modified": "2023-03-15T12:39:16-07:00"
     },
     {
       "path": "index.html",
       "title": "EDS 411A: MEDS Capstone",
       "author": [],
       "contents": "\n\n\n\n\n\n\nImage: Foggy forest\n\n\n\nSyllabus\nEDS 411A Syllabus\nCourse description\nThe goal of EDS 411A is to facilitate student learning, work and progress on their MEDS Capstone project through lessons, activities, supervised and unsupervised project work, and peer review and feedback. Additionally, EDS 411A provides opportunities for professional and career development (e.g. presentation skills, writing and editing, client relations and project management).\nThroughout the course, students will build on skills they have learned in prior and current MEDS courses to implement them in a real-world data science project, including:\nPractice project management and reproducible workflows using tools and strategies learned in MEDS courses, establishing clear expectations for group roles and participation, and with frequent updates within and across groups\nPrepare professional presentations and documentation for a data science project through presentations for client and faculty review and through the Design and Implementation Plan, and Technical Documentation\nContinue to build real-world skills for data science projects through continued collaborative work in git, data analyses and statistics, data visualization and communication, and more\nImplement professional skills for data science careers including code and documentation peer review, team and client relations, scheduling and organizing tools & strategies, and conflict resolution & communication\nNote: Weeks 7 & 8 are practice presentations (for Faculty Reviews) and directed work on projects. Week 9 is Faculty Reviews. That’s why there aren’t shared materials for those weeks.\nMEDS Capstone Project Guidelines\n\n\n\n",
-      "last_modified": "2023-02-22T11:49:51-08:00"
+      "last_modified": "2023-03-15T12:39:17-07:00"
     },
     {
       "path": "resources.html",
       "title": "Capstone resources",
       "author": [],
       "contents": "\nBren & MEDS Capstone official information\nBren School Student Resources page\nMEDS Capstone Guidelines\nCourse & 411A Resources\nGetting Capstone help “Order of Operations” schematic\nExample Design and Implemenation Plans\nDIP example directory\nTesting Example\n-Right Click to Download here\n\n\n\n",
-      "last_modified": "2023-02-22T11:49:52-08:00"
+      "last_modified": "2023-03-15T12:39:18-07:00"
     },
     {
       "path": "week_1.html",
       "title": "Week 1: Hello, (Capstone) world!",
       "author": [],
       "contents": "\nWeek 1 Materials\nWeek 1 Slides\nWeek 1 Goals:\nEDS 411A course and capstone introduction\nPractice and dialogue about holding effective meetings in different contexts\nWork on paragraph for Bren Website\nDecide on a project alias\nDefine team roles\nSchedule\n1:00 - 1:30 EDS 411AB Course Intro\n1:30 - 2:30 Effective Meetings\n2:30 - 2:45 BREAK\n2:45 - 4:00 Project pieces: alias, paragraph for website, roles\nWhat you should do before next week:\nAll members should read through the MEDS Capstone Project Guidelines\nBy 5pm on Tuesday 17th\nHold your first client meeting and self reflect on how it went\nCreate your group alias, add to EDS 2023 Capstone Assignments\nFinalize your summary paragraph for the Bren website, add to Capstone Summaries for MEDS Website\nMake sure your project roles are updated i EDS 2023 Capstone Assignments\nBring a dataset (from your project) to next Wednesday class in a software of your choice\nEmily is case@bren.ucsb.edu\n\n\n\n",
-      "last_modified": "2023-02-22T11:49:52-08:00"
+      "last_modified": "2023-03-15T12:39:18-07:00"
     },
     {
       "path": "week_10.html",
       "title": "Week 10: Course wrap-up & what to expect in Spring",
       "author": [],
-      "contents": "\nWeek 10 Materials\nWeek 10 Slides\nWeek 10 Goals:\nRecap Faculty Reviews\nEDS 411A Course Recap\nWhat to expect in EDS 411B\nSelf & peer evaluations, course evaluation\nToday’s timeline:\n1:00 - 1:20 - Faculty review recap & brainstorm\n1:20 - 3:30 - Work on your project\n3:30 - 4:00 - Looking forward to Spring\n4:00 - end - Self & peer evaluations, EDS 411A evaluations\nHave a great Spring Break!!!\n\n\n\n",
-      "last_modified": "2023-02-22T11:49:53-08:00"
+      "contents": "\nToday’s timeline:\n1:00 - 1:20: Faculty Review recap, questions, what to turn in this week\n1:20 - 2:00: Best Practices for what’s coming…\n2:00 - 2:15: Peer & Self Evaluations, EDS 411A Evaluation\nWork on DIP\nWeek 10 Materials\nWeek 10 Slides\nBest Practices\nHave a great Spring Break!!!\n\n\n\n",
+      "last_modified": "2023-03-15T12:39:19-07:00"
     },
     {
       "path": "week_2.html",
       "title": "Week 2: Working with clients, and starting solution design",
       "author": [],
       "contents": "\nWeek 2 Materials\nWeek 2 Slides\nWeek 2 Goals:\nPeer Review - 1 paragraph description -\nSolution Design - initial schematic\nData Exploration - a first attempt\nCommunicating with clients and beyond\nToday’s timeline:\n1:00 - 1:15 - Questions & “What worked?”\n1:15 - 1:30 - Peer Review of Paragraph\n1:30 - 2:30 - Solution Design\n2:30-2:45 - Break\n2:45 - 3:20 - Data Exploration\n3:20 - 3:40 - Data Exploration Show and Tell (3 minutes)\n3:40 - 3:50 - Communicating with clients\n3:50 - 4:00 - For next week\nWhat you should do before next week:\nAdd your skeleton draft sketch of your Solution Design to Class Working Drive Week 3 Sketches before next class (you can just add a screenshot if needed, )\nNote: Schematics are encouraged in your D&I plan, so this could / should end up being a final figure in your submitted document.\nTurn your sketch into a Gantt chart (Casey’s class will provide some guidance here). Add a link to Class Working Drive Week 3 Gantt Chart Link Doc\nPrepare a Flash Talk on your project, be ready to present in next week’s class. Add presentation to Class Working Drive Week 3 Flash Talks\n\n\n\n",
-      "last_modified": "2023-02-22T11:49:54-08:00"
+      "last_modified": "2023-03-15T12:39:19-07:00"
     },
     {
       "path": "week_3.html",
       "title": "Week 3: Data Management",
       "author": [],
       "contents": "\nWeek 3 Materials\nWeek 3 Goals:\nLearn about strategies for data management\nContinue to work on solution design\nAnswer any questions on funds for your project and how to use them\nToday’s timeline:\n1:00-3:00 Renata Curty - Data Management Plans\n3:00-3:30. Flash Talks\n3:30-4:00 Bridget Mastopietro - Finanace Team Presentation\nWhat you should do before next week:\nPrepara your data management plan and be ready share. Add it (as a Google doc) to this folder on our class drive Week4/Data Management Plan\nContinue to work on your solution design\nBe prepared to present solution design in class (you can update materials that you submitted last week if you want to incorporate updates/changes)\nClass Working Drive Week 3 Sketches\nStart your project repository -and add the link here\n\n\n\n",
-      "last_modified": "2023-02-22T11:49:54-08:00"
+      "last_modified": "2023-03-15T12:39:19-07:00"
     },
     {
       "path": "week_4.html",
       "title": "Week 4: Faculty reviews, responding to questions, postmortems, and flash talks",
       "author": [],
       "contents": "\nWeek 4 Materials\nWeek 4 Slides\nWeek 4 Goals:\nCheck in on Capstone Design and Implementation plan\nFormalize Problem Statement\nMaking Progress on Solution Design\nFeedback on Data Management plan\nStarting to think about testing\nToday’s timeline:\n1:00 - 1:20 - Review of Capstone Design and Implementation Plan\n1:20 - 1:50 - Problem Statement (overview, work time)\n1:50 - 2:45 - Design Solution Presentations and Feedback\n2:45 - 3:00 - Break\n3:00 - 3:15 - Pair and Share on Data Management Plan\n3:15 - 4:00 - Testing\nWhat you should do before next week:\nDraft Design and Implementation Plan (send to your advisory AND put a copy in Week 5 DIP directory)\nRead this short post on different types of software testing, and this one on data quality, to understand some different testing and data quality flavors (we’ll discuss more next week)\nBrainstorm different ways you are concerned your product and/or data could break / fail. Prepare a 2-slide flash talk (3 minutes, 1 presenters) to share expected breaks. This will motivate group discussions & feedback on product testing.. Put in Week 5Break/Fail directory\n\n\n\n",
-      "last_modified": "2023-02-22T11:49:55-08:00"
+      "last_modified": "2023-03-15T12:39:20-07:00"
     },
     {
       "path": "week_5.html",
       "title": "Week 5: Coding, Testing.. ",
       "author": [],
       "contents": "\nWeek 5 Materials\nWeek 5 Slides\nWeek 5 Goals:\nGaining perspective on what makes good data science\nPractice in code testing\nPreparing for failure\nFaculty Review Logistics\nSolution design sharing\nToday’s timeline:\n1:00 - 1:45 - Announcements and Perspectives on Coding Design\n1:45 - 2:30 - Code Design and Testing\n2:30 - 2:45 - Test Sharing\n2:45 - 3:00 - Break\n3:00 - 3:10 - Failure and how to handle it\n3:10 - 3:30 - Faculty Review Logistics\n3:30 - 4:00 - Solution Design Peer Review\nWhat you should do before next week:\nDraft Testing Plan section of Design & Implementation Plan\nPrepare a 5 minute presentation\nCover slide\nBackground and motivation/significance (1-2 slides\nProblem Statement (1 slide)\nObjective (1 slide)\nSolution Design (2-3 slides)\n\nResources for testing\nJeff Perkel (2022) How to fix your scientific coding errors. Nature Technology Feature.\nDataONE Best Practices - Data Assurance\nGoogle Testing and Debugging in ML\nFay et al. Engineering Production-Grade Shiny Apps Ch. 11 - Build yourself a safety net\nTaschuk and Wilson (2017) Ten simple rules for making research software more robust. PLOS Comp Bio.\n\n\n\n",
-      "last_modified": "2023-02-22T11:49:56-08:00"
+      "last_modified": "2023-03-15T12:39:20-07:00"
     },
     {
       "path": "week_6.html",
       "title": "Week 6: DIP & faculty review work",
       "author": [],
       "contents": "\nWeek 6 Materials\nWeek 6 Slides\nWeek 6 Goals:\nThinking about what makes a good presentation\nIncorporating feedback and make progress on problem statement, objectives and solution design\nFor next week\nnext week we are going to focus on the ‘storyline’ of your project (and presentation)\nwe will also start brainstorming about mock-up prototypes (or other was to give audience a sense of where you are going)\nput a draft presentation in Week 7\nour focus is on story (less on what the slide looks like)\nyou can just put text to describe a figure if you haven’t made it yet\n\n",
-      "last_modified": "2023-02-22T11:49:56-08:00"
+      "last_modified": "2023-03-15T12:39:21-07:00"
     },
     {
       "path": "week_7.html",
       "title": "Week 7: Pactice presentations",
       "author": [],
       "contents": "\nWeek 7 Materials\nWeek 7 Slides\nWeek 7 Goals:\nPracting presentation - does the storyline work?\nBrainstorming on preliminary results/prototype - 1 GRAPH + 1 SKETCH\nFor next week\nPresentation practice!\nQ/A practice\nput an update presentation in Week 8\n\n\n\n",
-      "last_modified": "2023-02-22T11:49:57-08:00"
+      "last_modified": "2023-03-15T12:39:21-07:00"
     },
     {
       "path": "week_8.html",
       "title": "Week 7: Responding to questions, practice presentations",
       "author": [],
       "contents": "\nWeek 7 Materials\nWeek 7 Slides\nWeek 7 Goals:\nTips for responding to questions\nIdentify question bins and start brainstorming\nPractice presentations and feedback for Faculty Reviews\nDiscuss strategies for delegating tasks (efficient coworking)\nToday’s timeline:\n1:00 - 1:15 - Intro, questions, reminders\n1:15 - 1:45 - Efficient coworking discussion\n1:45 - 2:15 - Mini-lecture - Question bins\n2:15 - 2:30 - Break\n2:30 - 3:00 - Identify your question bins, brainstorm 2 - 3 questions per bin\n3:00 - 5:00 - Practice presentations and feedback\nWhat you should do before next week for 411A:\nEdit your Design & Implementation Plan once feedback received\nIterate on your presentation (and practice giving it)\nContinue adding to your question bins\n\n\n\n",
-      "last_modified": "2023-02-22T11:49:58-08:00"
+      "last_modified": "2023-03-15T12:39:22-07:00"
     }
   ],
   "collections": []
