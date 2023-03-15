@@ -1,0 +1,70 @@
+
+---
+title: 'Programming Basics and Best Practices'
+output:
+  slidy_presentation: default
+  ioslides_presentation: default
+  beamer_presentation: default
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Some thoughts
+
+*  Learning to program/data science is hard and we may not always explain in a way that is accessible to you - So if you don't understand something *ASK* , 
+
+* Programming gets better with practice and play -  try the code, try variations on the ideas presented, make up stuff to try, 
+
+* Programming means making mistakes, expect it, stay calm and try again - if you get frustrated step away and come back; be creative
+
+
+* Support each other - assign tasks but check each others work
+ 
+ 
+# Best Practices for Software Development 
+
+
+* Wilson G, Aruliah DA, Brown CT, Chue Hong NP, Davis M, et al. (2014) Best Practices for Scientific Computing. PLoS Biol 12(1): e1001745. doi:10.1371/journal.pbio.1001745
+
+*  Blanton, B and Lenhardt, C 2014. A Scientist’s Perspective on Sustainable Scientific Software. Journal of Open Research Software 2(1):e17, DOI: http://dx.doi.org/10.5334/jors.ba
+
+[Alternative View](http://simpleprogrammer.com/2013/02/17/principles-are-timeless-best-practices-are-fads/)
+
+# Summary of Best Practices
+
+[Wilson et al, Summary Box](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745#pbio-1001745-box001)
+  
+
+# Common Coding/Software Engineering Issues
+
+* Unreadable code (hard to understand, easy to forget how it works, hard to find errors, hard to expand)
+* Overly complex, disorganized code (hard to find errors; hard to modify-expand)
+* Insufficient testing (both during development and after)
+* Not tracking code changes (multiple versions, which is correct?)
+
+
+# Automated Tools for Best Practices in Software Engineering
+
+Automated tools (really useful for more complex code development
+( note that capstones’s often create programs > 100 lines of code)
+
+Automated documentation- a program that helps you to generate documentation
+
+https://en.wikipedia.org/wiki/Comparison_of_documentation_generators
+
+http://roxygen.org/roxygen2-manual.pdf 
+
+Automated test case development
+
+http://r-pkgs.had.co.nz/tests.html
+
+
+Automated code evolution tracking (Version Control)
+This you already know
+https://github.com/
+
+
